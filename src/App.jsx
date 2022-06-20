@@ -15,6 +15,7 @@ function App() {
             count is: {count}
           </button>
           INICIO DE PASANTIA
+          <h2>Integracion continua y despliegue continuo</h2>
         </p>
         <p>
           Edit <code>App.jsx</code> and save to test HMR updates.
